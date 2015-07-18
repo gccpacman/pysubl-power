@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"AdvancedNewFile",
+		"Anaconda",
+		"Color Scheme - saulhudson",
+		"Colorcoder",
+		"Colorsublime",
+		"Djaneiro",
+		"FTPSync",
+		"GitGutter",
+		"Gitignore",
+		"IPython Notebook",
+		"Markdown Preview",
+		"Package Control",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - amCoder",
+		"Theme - Coffee",
+		"Theme - Flatgrammer",
+		"Theme - Flatland",
+		"Theme - Freesia",
+		"Theme - SoDaReloaded",
+		"Themr",
+		"Tomorrow Color Schemes"
+	]
+}
